@@ -126,6 +126,12 @@ a:focus{
 	padding: 7% 0; 
 }
 
+#tf-our-team{
+	padding: 7% 0; 
+  color:#fff;  
+  background-color:#2F937B
+}
+
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
@@ -232,7 +238,7 @@ ul.cat.list-inline li a:hover{
 #tf-about .overlay{
 	height: auto;
 	background-attachment: fixed;
-	padding: 10% 0;
+	padding: 7% 0;
 }
 
 #tf-why-me{
