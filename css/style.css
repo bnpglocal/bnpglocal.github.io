@@ -136,7 +136,7 @@ a:focus{
 .media-left.media-middle i {
 	padding: 20px 30px 20px 0;
 	font-size: 30px;
-	color: rgb(47, 147, 123);
+	color: #fff;
 
 }
 
@@ -259,6 +259,12 @@ ul.cat.list-inline li a:hover{
 ul.why-me li{
 	margin: 10px 0;
 }
+
+#tf-events, #tf-our-team{
+	padding: 5% 0;
+	text-align: center;
+}
+
 #tf-contact{
 	background: url(../img/08.jpg);
 	background-size: cover;
